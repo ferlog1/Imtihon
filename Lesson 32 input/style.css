@@ -1,0 +1,147 @@
+.s
+{
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.f
+{
+    display: flex;
+    align-items: center;
+}
+.box
+{
+    height: 900px;
+    border: 0.1px solid rgba(128, 128, 128, 0.606);
+}
+.t
+{
+border: 0.1px solid rgba(128, 128, 128, 0.41);
+height: 100px;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+}
+.d
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.d select
+{
+    width: 400px;
+    height: 30PX;
+}
+.f button
+{
+    background-color: rgb(39, 186, 194);
+    color: white;
+    border: none;
+    width: 140px;
+    height: 34px;
+    border-radius: 4px;
+}
+.l
+{
+    display: flex;
+    justify-content: space-around;
+}
+.k input
+{
+    width: 300px;
+    height: 30px;
+    border: 0.1px solid rgba(128, 128, 128, 0.485);
+}
+select
+{
+border: 0.1px solid rgba(128, 128, 128, 0.485);
+}
+.k select
+{
+    width: 310px;
+    height: 33px;
+}
+.o
+{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+}
+.u , .r
+{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+.r button
+{
+    background-color: rgb(39, 186, 194);
+    color: white;
+    border: none;
+    width: 200px;
+    height: 34px;
+    border-radius: 4px;
+}
+.r
+{
+    gap: 30px;
+
+}
+#s
+{
+    border: none;
+    background-color: rgba(224, 224, 224, 0.783);
+    height: 30px;
+    color: black;
+    width: 120px;
+}
+.u button
+{
+    height: 30px;
+    border: 2px solid rgba(224, 224, 224, 0.783);
+    width: 120px;
+    background-color: white;
+}
+.x
+{
+    justify-content: center;
+    display: flex;
+}
+.rf input
+{
+    height: 130px;
+    width: 80%;
+}
+#ta
+{
+        display: flex;
+justify-content: center;
+}
+.rf
+{
+}
+.m
+{
+    display: flex;
+    justify-content: space-around;
+    gap: 800px;
+}
+.m button
+{
+    height: 30px;
+    width: 170px;
+    background-color: blue;
+color: white;
+border: none;
+border-radius: 5px;
+}
+#d
+{
+    width: 100px;
+    background-color: white;
+    border: 2px solid blue;
+    color: blue;
+    border-radius: 5px;
+}
